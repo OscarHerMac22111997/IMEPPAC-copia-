@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6CE9D"
+    tools:context=".FirstFragment"
+    tools:ignore="MissingDefaultResource">
+
+    <Button
+        android:id="@+id/button_about"
+        android:layout_width="214dp"
+        android:layout_height="48dp"
+        android:backgroundTint="#E16037"
+        android:text="acerca de"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.677" />
+
+    <Button
+        android:id="@+id/button_game"
+        android:layout_width="211dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#FFE16037"
+        android:text="Juegos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.333"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/button_activity"
+        android:layout_width="211dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#FFE16037"
+        android:text="ACTIVIDADES"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.446" />
+
+    <Button
+        android:id="@+id/button_curiosity"
+        android:layout_width="214dp"
+        android:layout_height="48dp"
+        android:backgroundTint="#FFE16037"
+        android:text="Curiosidades"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.56" />
+</androidx.constraintlayout.widget.ConstraintLayout>

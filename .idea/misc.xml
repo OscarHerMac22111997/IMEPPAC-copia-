@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/drawable/chevron_left_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/drawable/ic_baseline_15mp_24.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/about.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/actividad.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/activity_reciclado.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/curiosidad.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/curiosidades.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/direccion.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/memorama.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/menu_juegos.xml" value="0.33" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/origen.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/redes.xml" value="0.1" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/rompecabezas.xml" value="0.17502532928064843" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/layout/simulacion.xml" value="0.5" />
+        <entry key="..\:/Archivos de programa/AndroidStudioProyect/IMEPPAC/app/src/main/res/menu/menu_main.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

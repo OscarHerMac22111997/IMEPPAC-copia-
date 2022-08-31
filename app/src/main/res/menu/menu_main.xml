@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/primer_menu"
+    android:orderInCategory="100"
+    android:title="Menu principal"
+    android:background="#E6CE9D"
+
+    app:showAsAction="never" />
+<item
+    android:id="@+id/juegos"
+    android:orderInCategory="100"
+    android:title="Juegos"    android:background="#E6CE9D"
+    app:showAsAction="never" />
+<item
+    android:id="@+id/organizacion"
+    android:orderInCategory="100"
+    android:title="Organizacion"
+    app:showAsAction="never"    android:background="#E6CE9D"/>
+</menu>
